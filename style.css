@@ -1,0 +1,39 @@
+body{
+    background-color: cyan;
+
+}
+
+h1{
+    background-color: cornsilk;
+    color: rgb(38,0,255);
+    font-family: 'Oswald', sans-serif;
+}
+
+#show_sketch{
+    float:right;
+}
+
+
+#score{
+    font-size: 20px;
+    margin-left: 7px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#timer{
+    float: right;
+    font-size: 20px;
+    margin-right: 7px;
+    font-family: 'Oswald', sans-serif;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+#sketch_draw{
+    color: red;
+}
